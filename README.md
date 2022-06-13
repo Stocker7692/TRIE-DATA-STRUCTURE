@@ -14,4 +14,7 @@
 1. Maximum XOR
    - [Code](https://takeuforward.org/data-structure/maximum-xor-of-two-numbers-in-an-array/)
    - [Problem](https://bit.ly/3C6IHDp)
+1. Maximum XOR With an Element
+   - [Code](https://github.com/striver79/StriversTrieSeries/blob/main/L6MaxXorQueriesCpp)
+   - [Problem]( https://bit.ly/2YzYWev)
      
