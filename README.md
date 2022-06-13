@@ -11,4 +11,7 @@
 1. countDistinctSubstrings
    - [Code](https://takeuforward.org/data-structure/number-of-distinct-substrings-in-a-string-using-trie/)
    - [Problem](https://bit.ly/3ocRQW0)
+1. Maximum XOR
+   - [Code](https://takeuforward.org/data-structure/maximum-xor-of-two-numbers-in-an-array/)
+   - [Problem](https://bit.ly/3C6IHDp)
      
