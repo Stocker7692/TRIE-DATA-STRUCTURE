@@ -8,4 +8,7 @@
 1. Compelete_word
    - [Code](https://github.com/striver79/StriversTrieSeries/blob/main/L3_CompleteString_Cpp)
    - [Problem](https://bit.ly/3n3kedU)
+1. countDistinctSubstrings
+   - [Code](https://takeuforward.org/data-structure/number-of-distinct-substrings-in-a-string-using-trie/)
+   - [Problem](https://bit.ly/3ocRQW0)
      
